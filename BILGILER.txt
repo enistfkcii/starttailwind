@@ -1,0 +1,1 @@
+npm init -y => bu komut package.json dosyasını olusturmamızı saglar.
